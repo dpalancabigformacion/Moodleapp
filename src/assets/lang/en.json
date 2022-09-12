@@ -2101,6 +2101,7 @@
     "core.openwith": "Open with...",
     "core.othergroups": "Other groups",
     "core.pagea": "Page {{$a}}",
+    "core.parentlanguage": "",
     "core.percentagenumber": "{{$a}}%",
     "core.phone": "Phone",
     "core.pictureof": "Picture of {{$a}}",
